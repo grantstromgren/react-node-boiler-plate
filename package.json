@@ -39,7 +39,7 @@
     "react-addons-update": "^15.6.2",
     "react-data-grid": "^2.0.64",
     "react-data-grid-addons": "^2.0.69",
-    "react-dom": "^16.0.0",
+    "react-dom": "^15.0.0",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2"
   }
