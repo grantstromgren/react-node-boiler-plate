@@ -1,6 +1,6 @@
 dist
+node_modules
 .vs
 .idea
 *.njsproj
 *.sln
-node_modules
